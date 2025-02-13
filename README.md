@@ -1,4 +1,4 @@
-## Hi there My name is Jasuah Philemon a Journalism Major at lehigh university 
+## Hi there My name is Jasuah Philemon a Journalism Major at lehigh university, Im In Data Journalsim with Proffesor Jia 
 
 <!--
 **Jasuah/Jasuah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
