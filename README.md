@@ -1,7 +1,7 @@
 ## Hi there My name is Jasuah Philemon a Journalism Major at lehigh university, Im In Data Journalsim with Proffesor Jia 
 Check out My LinkedIN Jasuah Philemon - https://www.linkedin.com/in/jasuah-philemon-658639306
 80+ followers
-(https://github.com/Jasuah/Jasuah.github.io/blob/main/6ECD905F-9DF3-4F48-8D34-FFE8A86786D8.jpeg) 
+![Picture](https://github.com/Jasuah/Jasuah.github.io/blob/main/6ECD905F-9DF3-4F48-8D34-FFE8A86786D8.jpeg) 
 
 ![Infographic](https://github.com/Jasuah/Jasuah.github.io/blob/main/Blue%20Entrepreneur%20Personalities%20Business%20Infographic.jpg?raw=true)
 <!--
