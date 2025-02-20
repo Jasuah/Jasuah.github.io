@@ -1,4 +1,5 @@
-## Hi there My name is Jasuah Philemon a Journalism Major at lehigh university, Im In Data Journalsim with Proffesor Jia 
+## Hi there!
+My name is Jasuah Philemon, and I’m a journalism major at Lehigh University. I'm currently taking Data Journalism with Professor Jia.
 Check out My LinkedIN Jasuah Philemon - https://www.linkedin.com/in/jasuah-philemon-658639306
 80+ followers
 ![Picture](https://github.com/Jasuah/Jasuah.github.io/blob/main/6ECD905F-9DF3-4F48-8D34-FFE8A86786D8.jpeg) 
