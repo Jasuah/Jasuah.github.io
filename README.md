@@ -5,7 +5,8 @@ Check out My LinkedIN Jasuah Philemon - https://www.linkedin.com/in/jasuah-phile
 
 
 ![Picture](https://github.com/Jasuah/Jasuah.github.io/blob/main/6ECD905F-9DF3-4F48-8D34-FFE8A86786D8.jpeg) 
-
+## Lehigh University Faculty Overview Project 
+This project provides a comprehensive visual representation of the faculty composition at Lehigh University. The infographic highlights key statistics, including faculty distribution by college, ranks, tenure status, and demographic breakdowns. The data is sourced from the Lehigh University Data Center and aims to offer insights into the institution's academic workforce.
 ![Infographic](https://github.com/Jasuah/Jasuah.github.io/blob/main/Blue%20Entrepreneur%20Personalities%20Business%20Infographic.jpg?raw=true)
 <!--
 **Jasuah/Jasuah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
