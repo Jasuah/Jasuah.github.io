@@ -12,7 +12,8 @@ This project provides a visual representation of the faculty composition at Lehi
 **Jasuah/Jasuah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+![Timeline](https://cdn.knightlab.com/libs/timeline3/latest/embed/index
+Export to portfolio)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
