@@ -16,7 +16,7 @@ This project provides a visual representation of the faculty composition at Lehi
 
 
 ## New York Giants Win-Loss Record Chart
-![picture](![New_York_Giants_Win-Loss_Record_(2013-2023)_Wins_Losses_chartbuilder (1) (1)](https://github.com/user-attachments/assets/0fc76736-90a6-48ab-bc21-8d22aefcc017)
+![picture](https://github.com/Jasuah/Jasuah.github.io/blob/main/New_York_Giants_Win-Loss_Record_(2013-2023)_Wins_Losses_chartbuilder.png?raw=true)
 
 ## Undergraduate Employment Chart
 ![Picture] (![Percent_of_undergradutate_employment__37 3_chartbuilder (1)](https://github.com/user-attachments/assets/f574a22c-84ca-4a03-8f75-3a34aaf53045)
