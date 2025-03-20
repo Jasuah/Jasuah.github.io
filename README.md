@@ -13,7 +13,7 @@ This project provides a visual representation of the faculty composition at Lehi
 
 ## Timeline Project
 
-
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2:2PACX-1vSJNygzuyoJlxabEV3nSV60zLSNkom_AoGlU434vkD1yIOYtZ6Dem6rcWfovKeCWlcjIbDSC72ICTb_&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## New York Giants Win-Loss Record Chart
 ![picture](https://github.com/Jasuah/Jasuah.github.io/blob/main/New_York_Giants_Win-Loss_Record_(2013-2023)_Wins_Losses_chartbuilder.png?raw=true)
