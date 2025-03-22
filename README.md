@@ -24,4 +24,5 @@ This project provides a visual representation of the faculty composition at Lehi
 ## Top 20 Cycling Cities Map
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1GQ3hoBZUyHgRn7z_-nCyEXpysf2x744&ehbc=2E312F" width="640" height="480"></iframe>
 
-
+## Top 5 fashion-forward states in the U.Sfashion-forward states in the U.S 
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=12QEhu4inM6_aNHsNBIMMILVAxs42wvQ&ehbc=2E312F" width="640" height="480"></iframe>
