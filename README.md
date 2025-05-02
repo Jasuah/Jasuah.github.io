@@ -22,7 +22,7 @@ This project provides a visual representation of the faculty composition at Lehi
 ![picture](https://github.com/Jasuah/Jasuah.github.io/blob/main/New_York_Giants_Win-Loss_Record_(2013-2023)_Wins_Losses_chartbuilder.png?raw=true)
 
 ## Undergraduate Employment Chart
-![Picture] (![Percent_of_undergradutate_employment__37 3_chartbuilder (1)](https://github.com/user-attachments/assets/f574a22c-84ca-4a03-8f75-3a34aaf53045)
+<iframe ![Percent_of_undergradutate_employment__37 3_chartbuilder (1)](https://github.com/user-attachments/assets/f574a22c-84ca-4a03-8f75-3a34aaf53045>
 
 ## Top 20 Cycling Cities Map
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1GQ3hoBZUyHgRn7z_-nCyEXpysf2x744&ehbc=2E312F" width="640" height="480"></iframe>
